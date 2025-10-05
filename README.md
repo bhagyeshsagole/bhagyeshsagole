@@ -15,12 +15,8 @@ UIC CS undergrad focused on C++ systems and Python data apps. Recent builds:
 CS 111 **showcase winner** for *SpaceClicker*, a space-themed iClicker-style game in `turtle`.
 
 ## Projects
-- **[Strava Progress Dashboard](https://github.com/bhagyeshsagole/strava-progress-dashboard)**  
+- **[Strava Progress Dashboard]([https://github.com/bhagyeshsagole/strava-progress-dashboard](https://github.com/bhagyeshsagole/strava-progress-dashboard-README.md))**  
   Next.js/React + FastAPI + Pandas • Trendlines, filters, rolling 7/28-day load, HR zones.
-- **[Chess Engine & GUI (Python)](https://github.com/bhagyeshsagole/chess-engine-python)**  
-  Full rules engine + minimax/alpha-beta • Pygame board with drag-and-drop and PGN export.
-- **[SpaceClicker (CS 111 Showcase)](https://github.com/bhagyeshsagole/spaceclicker)**  
-  `turtle` graphics, timed rounds, live scoring.
 
 ## Skills
 **Languages:** C, C++, Python, R  
